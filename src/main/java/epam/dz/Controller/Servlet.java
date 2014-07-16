@@ -1,4 +1,4 @@
-package epam.dz.Servlet;
+package epam.dz.Controller;
 
 import epam.dz.action.Action;
 import epam.dz.action.ActionFactory;
